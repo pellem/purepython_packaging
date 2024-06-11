@@ -1,7 +1,7 @@
 ## TODO:
-[] Doc
-[] Slide Jupyter
-[] Conda folder
+- [ ]  Doc
+- [ ]  Slide Jupyter
+- [ ]  Conda folder
 
 # purepython_packaging
 

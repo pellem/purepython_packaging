@@ -1,3 +1,8 @@
+## TODO:
+[] Doc
+[] Slide Jupyter
+[] Conda folder
+
 # purepython_packaging
 
 This is a simple "Hello World" Python project demonstrating best practices in packaging and project structure.
